@@ -12,8 +12,8 @@
    <a href="https://github.com/Romulo-HFG/github-readme-stats">
   <img height=400 align="center" src="https://github-readme-stats.vercel.app/api?username=Romulo-HFG&theme=radical" />
 </a>
-<a href="https://github.com/RomuloHFG/convoychat">
-  <img height=475 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RomuloHFG&layout=compact&theme=radical&langs_count=8&card_width=320" />
+<a href="https://github.com/Romulo-HFG/convoychat">
+  <img height=475 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Romulo-HFG&layout=compact&theme=radical&langs_count=8&card_width=320" />
 </a>
 </div>
 
