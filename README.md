@@ -1,4 +1,4 @@
-![hello](https://github.com/Romulo-HFG/Romulo-HFG/blob/main/hello.svg)
+![hello](https://github.com/RomuloHFG/RomuloHFG/blob/main/hello.svg)
 
 ---
 
@@ -9,7 +9,7 @@
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Romulo-HFG)
 
 <div>
-   <a href="https://github.com/Romulo-HFG/github-readme-stats">
+   <a href="https://github.com/RomuloHFG/github-readme-stats">
   <img align="center" height=400 align="center" src="https://github-readme-stats.vercel.app/api?username=RomuloHFG&theme=radical" />
 </a>
 <a href="https://github.com/RomuloHFG/convoychat">
