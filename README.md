@@ -9,8 +9,8 @@
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Romulo-HFG)
 
 <div>
-   <a href="https://github.com/Romulo-HFG/github-readme-stats">
-  <img align="center" height=400 align="center" src="https://github-readme-stats.vercel.app/api?username=Romulo-HFG&theme=radical" />
+   <a href="https://github.com/RomuloHFG/github-readme-stats">
+  <img align="center" height=400 align="center" src="https://github-readme-stats.vercel.app/api?username=RomuloHFG&theme=radical" />
 </a>
 <a href="https://github.com/RomuloHFG/convoychat">
   <img align="center" height=550 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RomuloHFG&layout=compact&theme=radical&langs_count=8&card_width=320" />
