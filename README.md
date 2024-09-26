@@ -19,7 +19,7 @@
 
 ---
 ## Principais Tecnologias Usadas:
-<div style="display: inlline_block" ><br>
+<div style="display: inlline_block"  ><br>
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
    
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
