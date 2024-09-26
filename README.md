@@ -50,7 +50,10 @@
 
           
          
-
+<div align="center">
+<br><p align="center" ><b>CONTADOR DE PESSOAS LEGAIS POR AQUI</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{RomuloHFG}/count.svg" /></p> 
+<br></div>
           
           
 
