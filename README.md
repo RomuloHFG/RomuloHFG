@@ -1,12 +1,14 @@
 ![hello](https://github.com/Romulo-HFG/Romulo-HFG/blob/main/hello.svg)
 
 ---
-
+<div align="center">
+   
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rhfg2021@hotmail.com)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5524993164753)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r%C3%B4mulo-henrique-ferreira-gon%C3%A7alves-255b31298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/romulo_hfg/)
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Romulo-HFG)
+<div>
 
 <div>
    <a href="https://github.com/RomuloHFG/github-readme-stats">
